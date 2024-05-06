@@ -1,2 +1,4 @@
-# QRCodeProject
-Using HTML and CSS we are going to design a dummy project of QR Code Component.
+# QR Code Component Project
+We are going to create a QR Code Component using HTML & CSS.
+<br>
+Author - Vaishnavi Kantha
